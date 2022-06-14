@@ -3,6 +3,10 @@
     padding-bottom: 3rem;
 }
 
+.sobre__conteudo {
+    text-align: center;
+}
+
 .sobre__titulo {
     color: var(--cinza-escuro);
     font-weight: 700;
@@ -45,7 +49,7 @@
        margin-right: 3rem;
    }
    .sobre__titulo {
-       text-align: left;
+       text-align: center;
    }
    .sobre__texto--divisao {
        border-bottom: 1px solid var(--cinza-medio);
